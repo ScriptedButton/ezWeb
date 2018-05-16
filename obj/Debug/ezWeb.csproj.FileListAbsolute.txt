@@ -1,0 +1,10 @@
+c:\users\coleb\source\repos\ezWeb\ezWeb\bin\Debug\ezWeb.exe.config
+c:\users\coleb\source\repos\ezWeb\ezWeb\bin\Debug\ezWeb.exe
+c:\users\coleb\source\repos\ezWeb\ezWeb\bin\Debug\ezWeb.pdb
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Debug\ezWeb.csprojResolveAssemblyReference.cache
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Debug\ezWeb.Form1.resources
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Debug\ezWeb.Properties.Resources.resources
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Debug\ezWeb.csproj.GenerateResource.Cache
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Debug\ezWeb.csproj.CoreCompileInputs.cache
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Debug\ezWeb.exe
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Debug\ezWeb.pdb

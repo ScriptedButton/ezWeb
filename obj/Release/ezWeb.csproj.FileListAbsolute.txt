@@ -1,0 +1,10 @@
+c:\users\coleb\source\repos\ezWeb\ezWeb\bin\Release\ezWeb.exe.config
+c:\users\coleb\source\repos\ezWeb\ezWeb\bin\Release\ezWeb.exe
+c:\users\coleb\source\repos\ezWeb\ezWeb\bin\Release\ezWeb.pdb
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Release\ezWeb.csprojResolveAssemblyReference.cache
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Release\ezWeb.Form1.resources
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Release\ezWeb.Properties.Resources.resources
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Release\ezWeb.csproj.GenerateResource.Cache
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Release\ezWeb.csproj.CoreCompileInputs.cache
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Release\ezWeb.exe
+c:\users\coleb\source\repos\ezWeb\ezWeb\obj\Release\ezWeb.pdb

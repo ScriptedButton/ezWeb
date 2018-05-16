@@ -1,0 +1,4 @@
+<h1>ezWeb Default Template</h1>
+<hr>
+<p>Hello world.</p>
+
